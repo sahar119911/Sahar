@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Privacy by D
 
